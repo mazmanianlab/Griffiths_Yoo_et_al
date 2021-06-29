@@ -7,7 +7,7 @@ This repository contains open-access data from the paper.
 
 
 ## Contents
-1. RNAseq data
+1. RNAseq data ./RNAseq
 2. Metagenomics data
 3. Metabolomics data
 4. Proteomics data
