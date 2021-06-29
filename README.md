@@ -7,11 +7,11 @@ This repository contains open-access data from the paper.
 
 
 ## Contents
-1. RNAseq data ./RNAseq
-2. Metagenomics data
-3. Metabolomics data
-4. Proteomics data
-5. GCaMP data
+1. [RNAseq data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/RNAseq)
+2. [Metagenomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/metagenomics)
+3. [Metabolomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/metabolomics)
+4. [Proteomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/proteomics)
+5. [GCaMP data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/GCaMP)
 
 ## Acknowledgements
 
