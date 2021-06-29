@@ -1,0 +1,169 @@
+peptide,spectral count,matching proteins,matching proteins with GO:0006113,percentage proteins with GO:0006113,lca
+DELNTLLEK,1,21,6,28.571428571428573,Fungi
+LLADEHGWDVTDAR,1,90,9,10,Fungi
+ENSHDLR,1,16,15,93.75,Ascomycota
+LSDPVVAYR,1,61,8,13.114754098360656,Ascomycota
+GLEWFLYNR,1,27,27,100,Pezizomycotina
+LFATLVSYGLR,1,48,48,100,Pezizomycotina
+VFFPSLCK,1,40,40,100,Pezizomycotina
+VYVDLQALQLSLLGGR,1,23,23,100,Pezizomycotina
+LAFQAAGK,1,98,97,98.9795918367347,Pezizomycotina
+EMGEATPPLEWLGLQR,1,21,21,100,Pezizomycotina
+ESTGSFDVDSLVLSLMNSK,1,28,28,100,Pezizomycotina
+GTHEGKPLER,1,23,8,34.78260869565217,Pezizomycotina
+HVSGTSGLSALLK,1,25,24,96,Pezizomycotina
+LTAEVTVPQSK,1,31,31,100,Pezizomycotina
+QLQDFLLFR,1,137,136,99.27007299270073,Pezizomycotina
+SDPCVLTYLSESGEHVVAGAGELHLELCLK,1,46,8,17.391304347826086,Pezizomycotina
+SLGDVQVYPYK,1,33,7,21.21212121212121,Pezizomycotina
+STALSLYGK,1,26,8,30.76923076923077,Pezizomycotina
+TSDWEQNLCLGFEK,1,22,22,100,Pezizomycotina
+TSLQWPER,1,49,49,100,Pezizomycotina
+VEVGWNYSR,1,155,153,98.70967741935483,Pezizomycotina
+VGLDSTGR,1,30,30,100,Pezizomycotina
+YEYVALEPPLLETPQLR,1,23,23,100,Pezizomycotina
+GHVFAEEQRPGTPLFTLK,1,44,8,18.181818181818183,Pezizomycotina
+GALVNYGPWADR,1,16,16,100,Leotiomycetes
+DNGLDDPSLNAEVK,1,21,21,100,Leotiomycetes
+LGKPLPLSAVK,1,5,5,100,Leotiomycetes
+VDPLDDVPAGNLLGLVGLDQFLLK,1,42,8,19.047619047619047,Leotiomycetes
+DNYFGEDLHFR,1,12,12,100,Pseudogymnoascus
+ELDLCHGR,1,7,7,100,Pseudogymnoascus
+FDFVSNGMELFLLR,1,7,7,100,Pseudogymnoascus
+HSLETDDSSGLPPLTEK,1,6,6,100,Pseudogymnoascus
+LSCNLSNPLGWNAFHTWK,1,20,20,100,Pseudogymnoascus
+LYLQLDDDTTLR,1,20,20,100,Pseudogymnoascus
+NLEVQLYGFLLR,1,14,14,100,Pseudogymnoascus
+SAAYDSLVAGLAK,1,13,13,100,Pseudogymnoascus
+SFLLNLLPLHLDCVK,1,15,15,100,Pseudogymnoascus
+SNDLDVLLSLGCK,1,20,20,100,Pseudogymnoascus
+TLEEYQQLLNAK,1,14,14,100,Pseudogymnoascus
+VELASLSADLR,1,11,11,100,Pseudogymnoascus
+VPVEMGSSKPQPWQTNDLNGDLPPEWGLDVLLK,1,6,6,100,Pseudogymnoascus
+VSFNDLAGLLYSK,1,8,8,100,Pseudogymnoascus
+VTLPDLALGCVDADSASR,1,12,12,100,Pseudogymnoascus
+WSSFEYATVTTLLDSPEASVSYYWDLPGK,1,12,12,100,Pseudogymnoascus
+YLNDEEDGK,1,17,17,100,Pseudogymnoascus
+YQYCDTTSPSNTDTLLVDVSGR,1,15,15,100,Pseudogymnoascus
+AVDVEMASSK,1,10,10,100,Pseudogymnoascus
+EQVQAGFEK,1,16,16,100,Pseudogymnoascus
+EVHYFQR,1,12,12,100,Pseudogymnoascus
+FSVFVSVEPLFLDAAK,1,18,18,100,Pseudogymnoascus
+HVYSSLGHDEK,1,10,10,100,Pseudogymnoascus
+KPVQRPVK,1,10,10,100,Pseudogymnoascus
+LCAQEFGLSCQPLAR,1,21,21,100,Pseudogymnoascus
+LDDLYLTMNTVR,1,21,21,100,Pseudogymnoascus
+LMSVADDNLLTVDPSAVLGR,1,15,15,100,Pseudogymnoascus
+LNLALFLDEYHLSLPLLNSVR,1,18,18,100,Pseudogymnoascus
+LTFNLGLVQVEAHNR,1,11,11,100,Pseudogymnoascus
+NLATALLTADAATSK,1,10,10,100,Pseudogymnoascus
+NTDVNLVLPLLR,1,18,18,100,Pseudogymnoascus
+QDPVALLQVVDR,1,16,16,100,Pseudogymnoascus
+QGEEFVFDFDLK,1,9,9,100,Pseudogymnoascus
+QPSFYSAVDHNDLR,1,12,12,100,Pseudogymnoascus
+SDQPLDQYDFSAR,1,16,16,100,Pseudogymnoascus
+SQNSALLPEVVFNLGLVSTADATR,1,7,7,100,Pseudogymnoascus
+SSFLSLTSSER,1,18,18,100,Pseudogymnoascus
+SVDHGHFFALSASLNNLQASVQHVYSR,1,6,6,100,Pseudogymnoascus
+SWDLENLTECVLMTK,1,19,19,100,Pseudogymnoascus
+SYHLTSDSLELNLFADTVSTLVNVVGHLQTK,1,8,8,100,Pseudogymnoascus
+TGDPLFMTRPSYVLR,1,9,9,100,Pseudogymnoascus
+THSSLSEPK,1,10,10,100,Pseudogymnoascus
+TSFVLDPGPK,1,19,19,100,Pseudogymnoascus
+VLSAEVSAK,1,16,16,100,Pseudogymnoascus
+VQYNSSGSPSR,1,6,6,100,Pseudogymnoascus
+YDLAGLVAR,1,8,8,100,Pseudogymnoascus
+YGQFAQDEATGSTMLR,1,7,7,100,Pseudogymnoascus
+YLASLLHR,1,21,21,100,Pseudogymnoascus
+AETLYEGPPDDEACLGLK,1,21,8,38.095238095238095,Pseudogymnoascus
+APLTLHTDVVVTLK,1,19,19,100,Pseudogymnoascus
+ETVTTQSSLTALSK,1,15,6,40,Pseudogymnoascus
+EVNMGAYPSTFFDAQLFK,1,19,19,100,Pseudogymnoascus
+FAVTVPVGLVHSR,1,19,19,100,Pseudogymnoascus
+GMYGNHAK,1,21,21,100,Pseudogymnoascus
+LEALNAEFR,1,19,19,100,Pseudogymnoascus
+LLGSSFTLEEVR,1,3,3,100,Pseudogymnoascus
+LVSMLDGDSVQLFCTTTSASQALALYQALEK,1,19,19,100,Pseudogymnoascus
+LWCFGPDTNGANLLVDQSK,1,18,7,38.888888888888886,Pseudogymnoascus
+LYMLAEPLSEEVSNLLEAGK,1,11,5,45.45454545454545,Pseudogymnoascus
+MSGFTSLQNFR,1,21,21,100,Pseudogymnoascus
+NGPSAAGDR,1,21,21,100,Pseudogymnoascus
+STFVLSDFWLSSR,1,6,6,100,Pseudogymnoascus
+TDGGDFLLNLLDSPGHVDFSSEVTAALR,1,18,7,38.888888888888886,Pseudogymnoascus
+TFLPAADAMLEMMLLHLPSPVTAQNYR,1,21,8,38.095238095238095,Pseudogymnoascus
+TSQAQTYLVQR,1,20,20,100,Pseudogymnoascus
+VAFDYQAFLVADLTSLQLMLHNVR,1,19,19,100,Pseudogymnoascus
+VEATMETWQSAGSNQLDYLFK,1,17,17,100,Pseudogymnoascus
+AEVPGVDNFYDK,1,11,4,36.36363636363637,Pseudogymnoascus
+SHTSGQAFPQSVFDHWQLLPGGSPLDPTSK,1,18,6,33.333333333333336,Pseudogymnoascus
+SYLPVNESFGFNADLR,1,21,8,38.095238095238095,Pseudogymnoascus
+AALVMGNDNTK,1,7,7,100,Pseudogymnoascus verrucosus
+AFAFSFDDDENALPPVTPEVLHDATFLR,1,3,3,100,Pseudogymnoascus verrucosus
+ANHPVETHAYLTTTLELTMVNR,1,1,1,100,Pseudogymnoascus verrucosus
+ANLLLHVPPWNTQATFMPSNELAQVEGVTLK,1,5,5,100,Pseudogymnoascus verrucosus
+ASVEHVHLWAHVDDVAFLLSTGPLR,1,7,7,100,Pseudogymnoascus verrucosus
+DATPADNLKPGDTR,1,3,3,100,Pseudogymnoascus verrucosus
+DPDTEALLNKPPSK,1,4,4,100,Pseudogymnoascus verrucosus
+EHLFLFLDLLDDWTSGPQPDYLTFTPFHYFLK,1,2,2,100,Pseudogymnoascus verrucosus
+FSADLNATACR,1,7,7,100,Pseudogymnoascus verrucosus
+FTNYYMDLNVSLSPLVFSLGMQEGLSTPMTSLTGSQLFVDGVELFGNR,1,7,7,100,Pseudogymnoascus verrucosus
+GETTAEFLMK,1,6,6,100,Pseudogymnoascus verrucosus
+GFPKPSALANLLSK,1,4,4,100,Pseudogymnoascus verrucosus
+GGTAGPELRPFGWLDLK,1,5,5,100,Pseudogymnoascus verrucosus
+GLHNVPSGSSAK,1,2,2,100,Pseudogymnoascus verrucosus
+HESTLVDDPTEK,1,1,1,100,Pseudogymnoascus verrucosus
+LCLNVNDSNLLNNPSDFDDNSFLLLDGTGLVADLCVPLDK,1,1,1,100,Pseudogymnoascus verrucosus
+LFGLPPTEPTYLCNWDFTVGSVR,1,16,16,100,Pseudogymnoascus verrucosus
+LQSLVPYFSSSVETFSSLTTEPVVSDSNAQGNLHQWQGLSR,1,1,1,100,Pseudogymnoascus verrucosus
+MAGLTAVSLTPLLAFNWVFLVELLVCGLLTLFFLFYFNR,1,3,3,100,Pseudogymnoascus verrucosus
+NDENHEDNQSATESGR,1,4,4,100,Pseudogymnoascus verrucosus
+NNVPFDLALDK,1,4,4,100,Pseudogymnoascus verrucosus
+NPDSLHSDDSNEYHGQDNQELEK,1,4,4,100,Pseudogymnoascus verrucosus
+QASTSALPCR,1,4,4,100,Pseudogymnoascus verrucosus
+QVFDLQLGHPMLQLKPNEDYNEDQTATANR,1,3,3,100,Pseudogymnoascus verrucosus
+SATLHYNMDMVAGASGFSNTLDVEFPNLELTTSVNHGLLCR,1,2,2,100,Pseudogymnoascus verrucosus
+SQADTMTSQMQEQNK,1,10,10,100,Pseudogymnoascus verrucosus
+TDTGDGVLHPSR,1,1,1,100,Pseudogymnoascus verrucosus
+TTGALLPANLYSAK,1,4,4,100,Pseudogymnoascus verrucosus
+YHGNNETLLLHSGFLTWEYWR,1,8,8,100,Pseudogymnoascus verrucosus
+ADAQAALNGR,1,6,6,100,Pseudogymnoascus verrucosus
+AVSNPQALK,1,7,7,100,Pseudogymnoascus verrucosus
+AVTSLMEALQPTSAEDLLDSVQVESLTDLFAAK,1,3,3,100,Pseudogymnoascus verrucosus
+DASAASTGR,1,4,4,100,Pseudogymnoascus verrucosus
+DDTTSPQLQKPVQFGASLTR,1,2,2,100,Pseudogymnoascus verrucosus
+DSASYPENLR,1,10,10,100,Pseudogymnoascus verrucosus
+FANTVVSESHLR,1,5,5,100,Pseudogymnoascus verrucosus
+GHLPESTNPGK,1,3,3,100,Pseudogymnoascus verrucosus
+HAVFLLSTHGQR,1,1,1,100,Pseudogymnoascus verrucosus
+LESLLVDADFAGAVVHLQGMK,1,5,5,100,Pseudogymnoascus verrucosus
+LFDDNTEHTSFLVEFK,1,2,2,100,Pseudogymnoascus verrucosus
+LLGDEVHQLSQLLR,1,7,7,100,Pseudogymnoascus verrucosus
+LQNVLAALNRPEMTNLMDEAR,1,7,7,100,Pseudogymnoascus verrucosus
+LSLENLMLQMVPPDQAK,1,14,14,100,Pseudogymnoascus verrucosus
+LSLMLADGLCDGR,1,4,4,100,Pseudogymnoascus verrucosus
+LTSQFLTPGSHLQK,1,4,4,100,Pseudogymnoascus verrucosus
+LYNEPEASPASGQPAPALKPPTATQLDKPK,1,3,3,100,Pseudogymnoascus verrucosus
+NLLYPQVVPLLMELSSNVQAVMSNNNEPEGR,1,3,3,100,Pseudogymnoascus verrucosus
+QELVEDTPKPFLYDAHLSLAGLEVFTDAPNGNNNDSK,1,5,5,100,Pseudogymnoascus verrucosus
+QPLHLLFASDNGSVTLDTLNLR,1,4,4,100,Pseudogymnoascus verrucosus
+SASASWLTSPASEKPSVTAK,1,4,4,100,Pseudogymnoascus verrucosus
+SHHQDLALHQFLAPTLNLSR,1,4,4,100,Pseudogymnoascus verrucosus
+SPVASSTALNK,1,5,5,100,Pseudogymnoascus verrucosus
+SQTLSVLELPQTNGR,1,6,6,100,Pseudogymnoascus verrucosus
+SSSSLASSLHSK,1,5,5,100,Pseudogymnoascus verrucosus
+TQFLLVDDPFRPPPLQVDAPAMCFPPVPLPLNESNVYHSDR,1,2,2,100,Pseudogymnoascus verrucosus
+TTDSAMSSLPDK,1,6,6,100,Pseudogymnoascus verrucosus
+TTHMAAEAGEGFASLAR,1,4,4,100,Pseudogymnoascus verrucosus
+VAGNSQELSFVVK,1,15,15,100,Pseudogymnoascus verrucosus
+VAMAGPVLEFPELQLNLR,1,2,2,100,Pseudogymnoascus verrucosus
+VEDLSFWMASDK,1,5,5,100,Pseudogymnoascus verrucosus
+VVANLTSLANTGEGDSCGNFAFAAK,1,4,4,100,Pseudogymnoascus verrucosus
+ALNQTPLVQGALSFSHFR,1,5,5,100,Pseudogymnoascus verrucosus
+ANYESSLR,1,4,4,100,Pseudogymnoascus verrucosus
+DLWLPNDLGNGPAPTPVPQQER,1,3,3,100,Pseudogymnoascus verrucosus
+LPNLTHQLLLVTLLELAGEVEDAYSK,1,7,7,100,Pseudogymnoascus verrucosus
+LTGVPEADEDGK,1,13,13,100,Pseudogymnoascus verrucosus
+RPSTYPAPELAEAAPPPQEELAK,1,3,3,100,Pseudogymnoascus verrucosus
+STGDLSVEEVVSSATGSR,1,6,6,100,Pseudogymnoascus verrucosus
+VLLASTLLAEPGLLEPVFLCELQVPESAMGGVYSVLTR,1,3,2,66.66666666666667,Pseudogymnoascus verrucosus
+YQQVAATAAFPWNATLSLAELDVQLDLGQALGK,1,4,4,100,Pseudogymnoascus verrucosus
