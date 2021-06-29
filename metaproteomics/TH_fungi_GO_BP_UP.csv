@@ -1,0 +1,36 @@
+Peptides %,,GO term,Name
+0.49704142,49.70414201,GO:0006113,fermentation
+0.207100592,20.71005917,GO:0048268,clathrin coat assembly
+0.207100592,20.71005917,GO:0006886,intracellular protein transport
+0.207100592,20.71005917,GO:0016192,vesicle-mediated transport
+0.133136095,13.31360947,GO:0006457,protein folding
+0.082840237,8.284023669,GO:0006897,endocytosis
+0.082840237,8.284023669,GO:0006895,Golgi to endosome transport
+0.059171598,5.917159763,GO:0043624,cellular protein complex disassembly
+0.059171598,5.917159763,GO:0051228,mitotic spindle disassembly
+0.059171598,5.917159763,GO:0035103,sterol regulatory element binding protein cleavage
+0.059171598,5.917159763,GO:0071630,nuclear protein quality control by the ubiquitin-proteasome system
+0.059171598,5.917159763,GO:0071629,cytoplasm protein quality control by the ubiquitin-proteasome system
+0.059171598,5.917159763,GO:0051301,cell division
+0.059171598,5.917159763,GO:0051306,mitotic sister chromatid separation
+0.059171598,5.917159763,GO:1990171,SCF complex disassembly in response to cadmium stress
+0.059171598,5.917159763,GO:0030433,ubiquitin-dependent ERAD pathway
+0.059171598,5.917159763,GO:0034727,piecemeal microautophagy of the nucleus
+0.059171598,5.917159763,GO:0071712,ER-associated misfolded protein catabolic process
+0.059171598,5.917159763,GO:1990116,ribosome-associated ubiquitin-dependent protein catabolic process
+0.059171598,5.917159763,GO:0030970,"retrograde protein transport, ER to cytosol"
+0.059171598,5.917159763,GO:0051974,negative regulation of telomerase activity
+0.059171598,5.917159763,GO:0034517,ribophagy
+0.059171598,5.917159763,GO:0031134,sister chromatid biorientation
+0.059171598,5.917159763,GO:0072671,mitochondria-associated ubiquitin-dependent protein catabolic process
+0.059171598,5.917159763,GO:0061166,establishment of endoplasmic reticulum localization involved in endoplasmic reticulum polarization at cell division site
+0.059171598,5.917159763,GO:0034067,protein localization to Golgi apparatus
+0.059171598,5.917159763,GO:0046034,ATP metabolic process
+0.059171598,5.917159763,GO:1900182,positive regulation of protein localization to nucleus
+0.059171598,5.917159763,GO:0016320,endoplasmic reticulum membrane fusion
+0.059171598,5.917159763,GO:2001168,positive regulation of histone H2B ubiquitination
+0.059171598,5.917159763,GO:0070651,nonfunctional rRNA decay
+0.00295858,0.295857988,GO:0006397,mRNA processing
+0.00295858,0.295857988,GO:0006458,'de novo' protein folding
+0.00295858,0.295857988,GO:0061077,chaperone-mediated protein folding
+0.00295858,0.295857988,GO:0007041,lysosomal transport

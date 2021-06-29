@@ -1,0 +1,21 @@
+Peptides %,% of Bacterial Peptides,GO term,Name
+0.18452381,18.45238095,GO:0071973,bacterial-type flagellum-dependent cell motility
+0.071428571,7.142857143,GO:0045454,cell redox homeostasis
+0.053571429,5.357142857,GO:0006351,"transcription, DNA-templated"
+0.047619048,4.761904762,GO:0032784,"regulation of DNA-templated transcription, elongation"
+0.035714286,3.571428571,GO:0000160,phosphorelay signal transduction system
+0.035714286,3.571428571,GO:0005975,carbohydrate metabolic process
+0.011904762,1.19047619,GO:0006260,DNA replication
+0.011904762,1.19047619,GO:0006355,"regulation of transcription, DNA-templated"
+0.011904762,1.19047619,GO:0016114,terpenoid biosynthetic process
+0.011904762,1.19047619,GO:0050992,dimethylallyl diphosphate biosynthetic process
+0.011904762,1.19047619,GO:0019288,"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway"
+0.011904762,1.19047619,GO:0015074,DNA integration
+0.005952381,0.595238095,GO:0006790,sulfur compound metabolic process
+0.005952381,0.595238095,GO:0006412,translation
+0.005952381,0.595238095,GO:0046854,phosphatidylinositol phosphorylation
+0.005952381,0.595238095,GO:0044781,bacterial-type flagellum organization
+0.005952381,0.595238095,GO:0009401,phosphoenolpyruvate-dependent sugar phosphotransferase system
+0.005952381,0.595238095,GO:0000272,polysaccharide catabolic process
+0.005952381,0.595238095,GO:0009435,NAD biosynthetic process
+0.005952381,0.595238095,GO:0033539,fatty acid beta-oxidation using acyl-CoA dehydrogenase
