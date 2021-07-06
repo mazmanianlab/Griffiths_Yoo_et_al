@@ -1,0 +1,4 @@
+	myenteric plexus	myenteric plexus	myenteric plexus	myenteric plexus	submucosal plexus	submucosal plexus	submucosal plexus	submucosal plexus
+	mouse1	mouse2	mouse3	mouse4	mouse1	mouse2	mouse3	mouse4
+1	0.083916084	0.088161209	0.079754601	0.044982699	0.050949051	0.055415617	0.044989775	0.055363322
+2		0.175977654	0.198391421	0.164383562		0.025139665	0.018766756	0.044520548
