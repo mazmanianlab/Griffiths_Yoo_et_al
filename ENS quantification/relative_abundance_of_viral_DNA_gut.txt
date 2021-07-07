@@ -1,0 +1,4 @@
+	proximal	proximal	proximal	proximal	medial	medial	medial	medial	distal	distal	distal	distal
+	mouse1	mouse2	mouse3	mouse4	mouse1	mouse2	mouse3	mouse4	mouse1	mouse2	mouse3	mouse4
+Small Intestine	8.53491681	2.1394797	4.78628172	3.46329032	5.19986529	3.48208904	13.1501722	10.2018021	7.53847661	6.70138798	3.43869208	20.5915476
+Large Intestine	3.70194032	1.97455618	6.66977774	6.67014381					1.34714254	0.61501742	2.31758487	5.97490914
