@@ -11,7 +11,8 @@ This repository contains open-access data from the paper.
 2. [Metagenomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/metagenomics)
 3. [Metabolomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/metabolomics)
 4. [Proteomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/proteomics)
-5. [GCaMP data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/GCaMP)
+5. [GCaMP data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/gcamp6f)
+6. [ENS quantification](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/ENS%20quantification)
 
 ## Acknowledgements
 
