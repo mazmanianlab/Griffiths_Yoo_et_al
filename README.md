@@ -10,11 +10,9 @@ This repository contains open-access data from the paper.
 1. [RNAseq data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/RNAseq)
 2. [Metagenomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/metagenomics)
 3. [Metabolomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/metabolomics)
-[ChAT-Cre Samples](ftp://massive.ucsd.edu/MSV000083995/)
-[TH-Cre Samples] (ftp://massive.ucsd.edu/MSV000084909/) 
-5. [Proteomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/proteomics)
-6. [GCaMP data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/gcamp6f)
-7. [ENS quantification](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/ENS%20quantification)
+4. [Proteomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/proteomics)
+5. [GCaMP data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/gcamp6f)
+6. [ENS quantification](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/ENS%20quantification)
 
 ## Acknowledgements
 
