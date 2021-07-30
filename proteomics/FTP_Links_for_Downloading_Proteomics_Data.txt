@@ -1,0 +1,1 @@
+FTP links for downloading proteomics data:ftp://MSV000087917@massive.ucsd.eduftp://massive.ucsd.edu/MSV000087917/
