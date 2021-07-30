@@ -20,7 +20,9 @@ The enteric nervous system (ENS) coordinates responses that shape the intestinal
 
 ## Acknowledgements
 
-## Contact
+We thank members in the Mazmanian’s laboratory for discussions throughout the research and critical reading of the manuscript. We thank Dr. Andres Collazo and Caltech’s Biological Imaging Facility for training access to microscopy capabilities and the Caltech Proteome Exploration Laboratory for access to LC-MS/MS capabilities. This work was supported by grants to S.K.M. from the Heritage Medical Research Institute, Emerald Foundation, Caltech Center for Environmental and Microbial Interactions (CEMI), Aligning Science Across Parkinson’s Foundation, the National Institutes of Health (GM007616 and DK078938), and the Department of Defense (PD160030).
 
+## Contact
+Corresponding Author. Email: byoo@caltech.edu (B.B.Y); sarkis@caltech.edu (S.K.M)
 
 
