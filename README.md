@@ -5,6 +5,10 @@
 
 This repository contains open-access data from the paper. 
 
+## Summary
+
+The enteric nervous system (ENS) coordinates responses that shape the intestinal milieu, and participates in bi-directional communication with various organs including the brain to influence physiology. Tools to study, and knowledge of, ENS development and function lag behind brain research. Herein, we deploy recombinant adeno-associated viral (rAAV) vectors with enhanced tropism for the gut to map and activate enteric neurons in mice with spatial and temporal resolution. rAAV-mediated fluorescent labelling coupled with whole-tissue clearing methods in the small intestine and colon revealed novel neuronal architectures in the gut of mice. Viral delivery of genetically-encoded calcium indicators allowed in vivo measurement of ENS activity. Further, we employed chemogentics to specifically activate gut neurons that express choline acetyltransferase (ChAT+) or tyrosine hydroxylase (TH+). Targeted activation of ChAT+ or TH+ neuronal populations associated with the gastrointestinal (GI) tract altered the intestinal transcriptome, mouse and microbial proteomes, metagenome, and fecal metabolome. We reveal previously unknown and broad roles for neurons in modulating intestinal physiology, mucosal immunity, and microbiome structure, and provide evidence for novel functions by the ENS such as regulating fungal colonization and shaping of bile acid profiles in the gut. These advanced experimental tools and rich datasets with multi-parameter characterization of the gut ecosystem may enable expanded understanding and study of the ENS.
+
 
 ## Contents
 1. [RNAseq data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/RNAseq)
