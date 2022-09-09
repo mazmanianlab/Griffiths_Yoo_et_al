@@ -1,4 +1,4 @@
-# Peripheral Neuronal Activation of the Intestinal Tract Shapes the Microbiome and Alters Gut Physiology![image](https://user-images.githubusercontent.com/37095754/189435530-52889043-1e1a-452e-a960-778ad13106b4.png)
+# Peripheral Neuronal Activation of the Intestinal Tract Shapes the Microbiome and Alters Gut Physiology
 ####  Bryan B. Yoo, Jessica A. Griffiths, Peter Thuy-Boun, Victor Cantu, Kelly Weldon, Collin Challis, Michael J. Sweredoski, Ken Y. Chan, Taren M. Thron, Gil Sharon, Annie Moradian, Gregory Humphrey, Qiyun Zhu, Justin Shaffer, Dennis W. Wolan, Pieter C. Dorrestein, Rob Knight, Viviana Gradinaru, Sarkis K. Mazmanian
 
 ## Overview
