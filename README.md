@@ -1,6 +1,8 @@
 # Peripheral Neuronal Activation of the Intestinal Tract Shapes the Microbiome and Alters Gut Physiology
 ####  Bryan B. Yoo*, Jessica A. Griffiths*, Peter Thuy-Boun, Victor Cantu, Kelly Weldon, Collin Challis, Michael J. Sweredoski, Ken Y. Chan, Taren M. Thron, Gil Sharon, Annie Moradian, Gregory Humphrey, Qiyun Zhu, Justin Shaffer, Dennis W. Wolan, Pieter C. Dorrestein, Rob Knight, Viviana Gradinaru, Sarkis K. Mazmanian
 
+* indicates co-first authors
+
 ## Overview
 
 This repository contains open-access data from the paper. 
@@ -27,4 +29,3 @@ We thank members in the Mazmanian’s laboratory for discussions throughout the 
 ## Contact
 Corresponding author email: sarkis@caltech.edu (S.K.M)
 
-* indicates co-first authors
