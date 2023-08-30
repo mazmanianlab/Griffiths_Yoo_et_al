@@ -19,6 +19,7 @@ The gastrointestinal (GI) tract is extensively innervated by both extrinsic and 
 3. [Metabolomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/metabolomics)
 4. [Proteomics data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/proteomics)
 5. [RNAseq data](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/RNAseq)
+6. [ex vivo motility](https://github.com/jessicagriffiths/Yoo_et_al_2021/tree/main/ex_vivo_motility)
 
 
 
