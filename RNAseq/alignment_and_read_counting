@@ -1,0 +1,20 @@
+#umi2index
+for file in *001.fastq.gz; do filename=`echo $file | cut -d "." -f 1`; umi2index $file ${filename}_umi2indexed.fastq.gz; done
+
+#adapter trimming
+for file in *umi2indexed.fastq.gz; do filename=`echo $file | cut -d "." -f 1`; bbduk.sh -Xmx3g in=$file out=${filename}_trimmed.fastq.gz ref=~/bbmap/36_49/resources/truseq.fa.gz ktrim=r k=23 mink=11 hdist=1; done
+
+#cleanup
+for file in *_trimmed.fastq.gz; do filename=`echo $file | cut -d "." -f 1`; bbduk.sh in=$file out=${filename}_clean.fastq.gz ref=~/polyA.fa.gz k=13 ktrim=r forcetrimleft=11 useshortkmers=t mink=5 qtrim=t trimq=10 minlength=20; done
+
+#alignment
+for file in *clean.fastq.gz; do filename=`echo $file | cut -d "." -f 1`; hisat2 -p 12 -x  ~/mm10-ERCC_genome_index  --rna-strandness F -S ${filename}_hisat2.sam  -U ${file}; done
+
+#sam to sorted bam
+for file in *_hisat2.sam; do filename=`echo $file | cut -d "." -f 1`;samtools sort -@ 48 ${file} > ${filename}_sorted.bam; done
+
+#collapse UMI
+for file in *_sorted.bam; do filename=`echo $file | cut -d "." -f 1`; collapse_UMI_bam -i ${file} -o ${filename}_dedup.bam; done
+
+#raw read counting
+for file in *.bam; do filename=`echo $file | cut -d "." -f 1`; python -m HTSeq.scripts.count --stranded=yes -f bam $file ~/Mus_musculus.GRCm38.78_ERCC92.gtf > ${filename}.HTSeq.out.txt; done
