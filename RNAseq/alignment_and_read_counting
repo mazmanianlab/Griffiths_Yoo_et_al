@@ -18,3 +18,6 @@ for file in *_sorted.bam; do filename=`echo $file | cut -d "." -f 1`; collapse_U
 
 #raw read counting
 for file in *.bam; do filename=`echo $file | cut -d "." -f 1`; python -m HTSeq.scripts.count --stranded=yes -f bam $file ~/Mus_musculus.GRCm38.78_ERCC92.gtf > ${filename}.HTSeq.out.txt; done
+
+#Then the outputs were merged into one file and loaded to the Degust web-based analysis tool as can be described as follows:
+We used the Degust web-based RNA sequencing data analysis tool to create an expression matrix and multidimensional scaling (MDS) plot and compute differential expression analysis (Powell et al., 2019). First, the samples were filtered to include mRNAs with at least five non-zero reads. Then, quasi-likelihood functionality in edgeR (Chen et al., 2014), available in the Degust tool, was used to identify differences between the comparison pairs. P-values were controlled for multiple comparisons using a false discovery rate (FDR); FDR < 0.05 was considered significant. 
