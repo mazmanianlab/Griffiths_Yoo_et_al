@@ -5,7 +5,7 @@ Click on the metagenomic data under "data types" in the left column and process 
 Add a "Atropos v1.1.24 (qp-shogun 012020)" command with the following job parameters:
 
   Job parameters:
-  input:69022
+
   Fwd read adapter:GATCGGAAGAGCACACGTCTGAACTCCAGTCAC
   Rev read adapter:GATCGGAAGAGCGTCGTGTAGGGAAAGGAGTGT
   Trim low-quality bases:15
