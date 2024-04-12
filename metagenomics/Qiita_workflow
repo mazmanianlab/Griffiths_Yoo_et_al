@@ -1,0 +1,20 @@
+Upload the Illumina data for each HiSeq lane into Qiita, a tool with standardized pipelines for processing and analyzing metagenomic data.
+
+Click on the metagenomic data under "data types" in the left column and process the data. Create a processing network. 
+
+Add a "Atropos v1.1.24 (qp-shogun 012020)" command with the following job parameters:
+
+  Job parameters:
+  input:69022
+  Fwd read adapter:GATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+  Rev read adapter:GATCGGAAGAGCGTCGTGTAGGGAAAGGAGTGT
+  Trim low-quality bases:15
+  Minimum trimmed read length:80
+  Pair-end read required to match:any
+  Maximum number of N bases in a read to keep it:80
+  Trim Ns on ends of reads:true
+  Number of threads used:5
+
+After the job is finished, you will get the "Adapter trimmed files." 
+
+
