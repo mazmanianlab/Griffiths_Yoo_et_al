@@ -1,0 +1,39 @@
+## HUMAnN2
+## HUMAnN2 (Franzosa et al., 2018) (and here) (HMP Unified Metabolic Analysis Network gen. 2) is taxonomic and functional profiler of metagenomic and metatranscriptomic data. It aims at generating a pathway profile.
+## The pipeline is: taxonomic profiling (MetaPhlAn2) → nucleotide-level pangenome mapping (Bowtie2)
+## Prerequisite: MetaPhlAn2, Bowtie2, DIAMOND.
+## Note: humann2 is not compatible with recent DIAMOND releases. So I installed DIAMOND 0.7.12 to work with it.
+## Note: It also requires GNU GLPK.
+## Installation: 
+pip install humann2
+## Note: Since the program is installed using pip, the files are under: /path/to/envs/humann2/lib/python2.7/site-packages/humann2/
+## Dependency issue can be solved by: 
+pip install future
+## Alternatively, download the latest stable release, do:
+python setup.py install  
+## the 2017 update: Now one can simply do:
+conda install -c bioconda humann2.
+## Run a test: 
+  humann2_test
+## Try on the demo data:
+humann2 --input examples/demo.fastq --output outdir
+## HUMAnN2 has a global configuration file. One can do humann2_contig to view its content, and do this to update certain parameters:
+humann2_contig --update <section> <name> <value>
+## HUMAnN2 needs three reference databases: ChocoPhlAn for nucleotide, UniRef90 for protein, and a special utility mapping database. One can do humann2_databases --available to view a list of them.
+## Download them (the configuration will be simultaneously updated):
+humann2_databases --download chocophlan full some_dir
+humann2_databases --download uniref uniref90_diamond some_dir
+humann2_databases --download utility_mapping full some_dir
+## Then run HUMAnN2:
+humann2 -i input.fq -o outdir
+## However, since pip or conda installed the MetaPhlAn2 program as a dependency, but not its database, one still needs to redirect the command to an actual MetaPhlAn2 database, like this:
+mpa_pkl=/path/to/MetaPhlAn2/db_v20/mpa_v20_m200.pkl
+bowtie2db=/path/to/MetaPhlAn2/db_v20/mpa_v20_m200
+humann2 --input input.fastq --output outdir --threads # \
+        --metaphlan-options="--mpa_pkl $mpa_pkl --bowtie2db $bowtie2db"
+## There will be multiple output files describing the same thing:
+## tsv and biom. As is.
+## genefamilies, pathabundance and pathcoverage. Here “coverage” means boolean (function is present or absent). Some people will argue that abundance is not trustworthy, but presence is.
+## all vs mapped. Normalization.
+## relab (relative abundance) vs. cpm (count per million reads)
+## unstratified vs. stratified (function per organism)
