@@ -1,0 +1,2 @@
+sample_name	forward_read	reverse_read
+sample01	/path/to/sample01_R1_001.fastq.gz	/path/to/sample01_R2_001.fastq.gz
